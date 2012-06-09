@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-include cts/CtsTestCoverage.mk
+#include cts/CtsTestCoverage.mk
 
-include $(call all-subdir-makefiles)
+#include $(call all-subdir-makefiles)
